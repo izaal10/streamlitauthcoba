@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$4JNSeoMEFDWT.BRFv8LgquFI/Q/BQ8NFfN.qn0px5v3M55AGmBkuK
+    test:
+      email: test@test.com
+      name: test
+      password: $2b$12$HMECEHiP3Xi3PDFtIXbSneC30MX5PzUeNxbwHgCEW4vv6qeTfa.LW
+preauthorized:
+  emails:
+  - melsby@gmail.com
